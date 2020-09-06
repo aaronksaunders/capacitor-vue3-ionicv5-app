@@ -1,5 +1,7 @@
 {
   "name": "ionic-vue-beta1",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue"
 }
