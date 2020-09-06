@@ -28,11 +28,15 @@
 
 <script lang="ts">
 import {
+  IonCard,
+  IonCardContent,
+  IonCardHeader,
   IonContent,
   IonHeader,
   IonPage,
   IonTitle,
   IonToolbar,
+  IonButton,
 } from "@ionic/vue";
 
 import { Plugins, CameraSource, CameraResultType } from "@capacitor/core";
@@ -44,11 +48,15 @@ import { useRouter } from "vue-router";
 export default defineComponent({
   name: "Home",
   components: {
+    IonCard,
+    IonCardContent,
+    IonCardHeader,
     IonContent,
     IonHeader,
     IonPage,
     IonTitle,
     IonToolbar,
+    IonButton,
   },
   setup() {
     const imageUrl = ref<string | null>();
