@@ -13,6 +13,7 @@
     "@capacitor/android": "^2.4.0",
     "@capacitor/cli": "^2.4.0",
     "@capacitor/core": "^2.4.0",
+    "@capacitor/ios": "^2.4.0",
     "@ionic/pwa-elements": "^3.0.1",
     "@ionic/vue": "5.4.0-dev.202009032307.949031e",
     "@ionic/vue-router": "5.4.0-dev.202009032307.949031e",
