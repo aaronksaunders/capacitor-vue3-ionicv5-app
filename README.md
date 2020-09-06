@@ -24,15 +24,15 @@ System:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue3-ionicv5-app/master/screenshots/device-2020-09-05-232653.png" 
-width='40%' height='40%'>
-<img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue3-ionicv5-app/master/screenshots/device-2020-09-05-232812.png" width='40%' height='40%'>
+width='40%' height='40%' style="padding:20px">
+<img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue3-ionicv5-app/master/screenshots/device-2020-09-05-232812.png" width='40%' height='40%' style="padding:20px">
   </p>
   
 ### Geolocation using Core Capacitor Plugins
 <p align="center">
 <img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue3-ionicv5-app/master/screenshots/device-2020-09-05-232830.png" 
-width='40%' height='40%'>
-<img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue3-ionicv5-app/master/screenshots/device-2020-09-05-232936.png" width='40%' height='40%'>
+width='40%' height='40%' style="padding:20px">
+<img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue3-ionicv5-app/master/screenshots/device-2020-09-05-232936.png" width='40%' height='40%' style="padding:20px">
   </p>
   
 ### Using Typescript
