@@ -23,8 +23,8 @@ System:
 - see https://capacitor.ionicframework.com/docs/pwa-elements/
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue-ionicv4-app/master/Screen%20Shot%202019-05-25%20at%204.57.18%20PM.png" width='40%'>
-<img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue-ionicv4-app/master/Screen%20Shot%202019-05-25%20at%204.49.02%20PM.png" width='40%'>
+<img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue3-ionicv5-app/master/screenshots/device-2020-09-05-232653.png" width='40%'>
+<img src="https://raw.githubusercontent.com/aaronksaunders/capacitor-vue3-ionicv5-app/master/screenshots/device-2020-09-05-232812.png" width='40%'>
   </p>
 
 ### Geolocation using Core Capacitor Plugins
