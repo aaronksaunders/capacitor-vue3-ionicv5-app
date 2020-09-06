@@ -6,6 +6,11 @@ Ionic:
    Ionic CLI       : 6.11.8-testing.0 (/Users/aaronksaunders/.nvm/versions/node/v13.9.0/lib/node_modules/@ionic/cli)
    Ionic Framework : @ionic/vue 5.4.0-dev.202009032307.949031e
 
+Capacitor:
+
+   Capacitor CLI   : 2.4.0
+   @capacitor/core : 2.4.0
+
 Utility:
 
    cordova-res (update available: 0.15.1) : 0.11.0
