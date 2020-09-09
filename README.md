@@ -1,6 +1,7 @@
 # VueJS Ionic Capacitor Sample Application - Vue3 Ionic BETA
 > ### Updated 9/3/2020
 
+> - **Features: Tabs, Capacitor Plugins Camera, GeoLocation**
 > - SEE YOUTUBE VIDEO - https://www.youtube.com/watch?v=ghPWh45h-SM
 > - SEE BLOG POST     - https://buff.ly/2GFhhO3
 ```
