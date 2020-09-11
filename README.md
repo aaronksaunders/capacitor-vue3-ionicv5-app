@@ -2,8 +2,13 @@
 > ### Updated 9/3/2020
 
 > - **Features: Tabs, Capacitor Plugins Camera, GeoLocation**
-> - SEE YOUTUBE VIDEO - https://www.youtube.com/watch?v=ghPWh45h-SM
+
+> - [YOUTUBE VIDEOS](https://www.youtube.com/playlist?list=PL2PY2-9rsgl2uKW0DB5FJ-YRCAG-JuSWN)
 > - SEE BLOG POST     - https://buff.ly/2GFhhO3
+
+> - [PART TWO, Firebase Integration](https://github.com/aaronksaunders/ionic-vue3-sample-2) 
+> - [PART THREE, Firebase Integration, Authentication](https://github.com/aaronksaunders/ionic-vue3-sample-3)
+
 ```
 Ionic:
 
